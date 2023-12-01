@@ -24,7 +24,7 @@ class Connector {
 				if(jqXHR.status === 0)
 				{
 					alert("Youtube Desktop is not running or Remote access is not enabled. Download YTMDesktop \n" +
-						"at https://ytmdesktop.app and enable Remote Control in Settings > Integrations then refresh this page or OBS source.");
+						"at https://ytmdesktop.app and enable Remote Control in Settings > Integrations then refresh this page or SLOBS source.");
 					clearInterval(that.interval);
 				}
 			});
