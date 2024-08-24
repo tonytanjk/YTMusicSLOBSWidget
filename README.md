@@ -2,19 +2,13 @@
 
 Original GitHub repo is: https://github.com/topik/YTMusicSLOBSWidget
 
+Tested only with Youtube Music Desktop version 1.13.0 https://github.com/ytmdesktop/ytmdesktop/releases/tag/v1.13.0
+
 # Youtube Music OBS Widget
 
 Youtube Music OBS (Streamlabs OBS) widget (formerly Google Youtube Music OBS Widget)
 
 This widget is using Youtube Music Desktop Player API for displaying informations about song that is being played.
-
-## Update 24.12.2022
-
-Widget now works with Youtube Music Dekstop Player (https://ytmdesktop.app/)
-
-## Update 25.9.2021
-
-~~Widget is no longer working with current version of GPMDP based on Youtube Music.~~
 
 ## Features
 
