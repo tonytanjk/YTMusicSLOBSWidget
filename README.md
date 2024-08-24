@@ -1,6 +1,6 @@
 # Forked from Topik
 
-Original GitHub repo is: https://github.com/topik/YTMusicSLOBSWidget
+Original GitHub repo is: https://github.com/topik/YTMusicSLOBSWidget (repo deleted)
 
 Tested only with Youtube Music Desktop version 1.13.0 https://github.com/ytmdesktop/ytmdesktop/releases/tag/v1.13.0
 
@@ -22,7 +22,7 @@ This widget is using Youtube Music Desktop Player API for displaying information
 
 ## Requirements:
 
-- Youtube Music Desktop App (https://ytmdesktop.app/)
+- Youtube Music Desktop App (https://github.com/ytmdesktop/ytmdesktop/releases/tag/v1.13.0)
 - Enable Remote Control (YTMDesktop > Settings > Integrations > Enable Remote Control, image: https://imgur.com/a/wzijp41)
 
 ## Installation steps for OBS (Streamlabs OBS)
