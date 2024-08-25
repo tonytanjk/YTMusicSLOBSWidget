@@ -112,10 +112,3 @@ URL:https://topik.github.io/youtube-music-obs-widget/nocss.html
 If you want to fetch data from other source than `127.0.0.1:9863`, you can use parameter `url`, for example:
 URL:https://topik.github.io/youtube-music-obs-widget/?url=https://example.tld:9863
 (don't forget about the port)
-
-
-## Contributing
-If you find some bug or if you write new feature, just fork this repo and make a pull request.
-
-## Contact
-https://topik.dev
