@@ -62,6 +62,12 @@ Width: 400
 Height: 120  
 ![image](https://user-images.githubusercontent.com/3578443/73892612-aed93500-4877-11ea-815b-4cb4aa186321.png)
 
+### My personnal setup
+URL of the widget: https://lord-zuzurnc.github.io/YTMusicSLOBSWidget/index.html?features=transparent-background+circle-progressbar+album-spin+disable-time+not-hide-on-pause+blink-pause  
+Width: 500  
+Height: 138  
+![image](https://github.com/Lord-ZuzurNC/AllMyResources/blob/main/YTMDWidget.png)
+
 ### Disabled timer and progressbar
 URL of the widget: https://lord-zuzurnc.github.io/YTMusicSLOBSWidget/index.html?features=disable-time+disable-progressbar  
 Width: 400  
