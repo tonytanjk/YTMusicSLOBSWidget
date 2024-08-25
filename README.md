@@ -1,3 +1,9 @@
+# Forked from Topik
+
+Original GitHub repo is: https://github.com/topik/youtube-music-obs-widget
+
+Tested only with Youtube Music Desktop version 1.13.0 https://github.com/ytmdesktop/ytmdesktop/releases/tag/v1.13.0
+
 # Youtube Music OBS Widget
 Youtube Music OBS (Streamlabs OBS) widget (formerly Google Youtube Music OBS Widget)
 
