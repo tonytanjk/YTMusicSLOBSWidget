@@ -34,7 +34,7 @@ Widget now works with Youtube Music Dekstop Player (https://ytmdesktop.app/)
 ## Installation steps for OBS (Streamlabs OBS)
 1) Add source
 2) Browser source
-3) URL: https://topik.github.io/youtube-music-obs-widget/
+3) URL: https://lord-zuzurnc.github.io/youtube-music-obs-widget/
 - in case you want to run widget on your local machine, clone this repository, check `Local file` and link the file `index.html`
 
 ## Parameters
@@ -57,58 +57,58 @@ You can combine multiple parameters together, for example for transparent backgr
 
 ## Examples
 ### Basic setup
-URL of the widget: https://topik.github.io/youtube-music-obs-widget/index.html  
+URL of the widget: https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html  
 Width: 400  
 Height: 120  
 ![image](https://user-images.githubusercontent.com/3578443/73892612-aed93500-4877-11ea-815b-4cb4aa186321.png)
 
 ### Disabled timer and progressbar
-URL of the widget: https://topik.github.io/youtube-music-obs-widget/index.html?features=disable-time+disable-progressbar  
+URL of the widget: https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html?features=disable-time+disable-progressbar  
 Width: 400  
 Height: 120  
 ![image](https://user-images.githubusercontent.com/3578443/73892932-7a19ad80-4878-11ea-888f-0ae8f02e2380.png)
 
 ### Enable circle progressbar (around album image)
-URL of the widget: https://topik.github.io/youtube-music-obs-widget/index.html?features=circle-progressbar  
+URL of the widget: https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html?features=circle-progressbar  
 Width: 400  
 Height: 120  
 ![image](https://user-images.githubusercontent.com/3578443/73893118-1348c400-4879-11ea-8d4e-bfedd4fee950.png)
 
 ### Shift position of album image
-URL of the widget: https://topik.github.io/youtube-music-obs-widget/index.html?features=right  
+URL of the widget: https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html?features=right  
 Width: 400  
 Height: 120  
 ![image](https://user-images.githubusercontent.com/3578443/73893232-5a36b980-4879-11ea-9763-741d23df5772.png)
 
 ### Disable background image (set background as transparent) and enable circle progressbar
-URL of the widget: https://topik.github.io/youtube-music-obs-widget/index.html?features=transparent-background+circle-progressbar  
+URL of the widget: https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html?features=transparent-background+circle-progressbar  
 Width: 400  
 Height: 120  
 ![image](https://user-images.githubusercontent.com/3578443/73893495-2314d800-487a-11ea-8d3b-9fddbdf0ec1a.png)
 
 ### Disable background, text only version
-URL of the widget: https://topik.github.io/youtube-music-obs-widget/index.html?features=transparent-background  
+URL of the widget: https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html?features=transparent-background  
 Width: 400  
 Height: 100 (everything under 101px is text only version)  
 ![image](https://user-images.githubusercontent.com/3578443/73893693-a7675b00-487a-11ea-9795-f31b6a6f19ed.png)
 
 ### Fullscreen width footer
-URL of the widget: https://topik.github.io/youtube-music-obs-widget/index.html  
+URL of the widget: https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html  
 Width: 1920  
 Height: 150  
 ![image](https://user-images.githubusercontent.com/3578443/73893833-075e0180-487b-11ea-93f5-b8b086be7d0d.png)
 
-You can basically set any width and height. You can also open the page (https://topik.github.io/youtube-music-obs-widget/index.html) in your browser to test the size of the widget.
+You can basically set any width and height. You can also open the page (https://lord-zuzurnc.github.io/youtube-music-obs-widget/index.html) in your browser to test the size of the widget.
 
 ## Text-only version
 Widget will show only interpret name and song name.
-URL:https://topik.github.io/youtube-music-obs-widget/textonly.html
+URL:https://lord-zuzurnc.github.io/youtube-music-obs-widget/textonly.html
 
 ## No-CSS version
 Basic widget without no additional CSS. You can customize CSS via OBS or by downloading this project.
-URL:https://topik.github.io/youtube-music-obs-widget/nocss.html
+URL:https://lord-zuzurnc.github.io/youtube-music-obs-widget/nocss.html
 
 ## Custom YTMDesktop Remote Access URL
 If you want to fetch data from other source than `127.0.0.1:9863`, you can use parameter `url`, for example:
-URL:https://topik.github.io/youtube-music-obs-widget/?url=https://example.tld:9863
+URL:https://lord-zuzurnc.github.io/youtube-music-obs-widget/?url=https://example.tld:9863
 (don't forget about the port)
