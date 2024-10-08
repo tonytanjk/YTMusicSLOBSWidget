@@ -84,6 +84,7 @@
 	body .artist-background {
 		margin-top: -12vh;
 		height: 130vh;
+		border-radius: 10px;
 	}
 }
 
